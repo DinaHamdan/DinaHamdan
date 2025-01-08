@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DinaHamdan
-- 👀 I’m interested in back end development
-- 🌱 I’m currently learning new frameworks
-- 💞️ I’m looking to collaborate on new projects
+- 👀 I’m interested in Full Stack development
+- 🌱 I’m currently learning Symfony
+- 💞️ I’m looking for a professionalization contract - Alternance
 - 📫 How to reach me https://www.linkedin.com/in/dinahamdan/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love plants!
